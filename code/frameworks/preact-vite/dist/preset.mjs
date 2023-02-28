@@ -1,0 +1,1 @@
+import{hasVitePlugins}from"@storybook/builder-vite";import preact from"@preact/preset-vite";var core={builder:"@storybook/builder-vite",renderer:"@storybook/preact"},viteFinal=async config=>{let{plugins=[]}=config;return await hasVitePlugins(plugins,["vite:preact-jsx"])||plugins.push(preact()),config};export{core,viteFinal};

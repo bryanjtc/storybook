@@ -1,0 +1,1 @@
+import{JsPackageManager,JsPackageManagerFactory,getPackageDetails,useNpmWarning}from"./chunk-HNHGIQPV.mjs";export{JsPackageManager,JsPackageManagerFactory,getPackageDetails,useNpmWarning};

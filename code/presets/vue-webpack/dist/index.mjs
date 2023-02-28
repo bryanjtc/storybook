@@ -1,0 +1,1 @@
+import{__require}from"./chunk-R4NKYYJA.mjs";var addons=[__require.resolve("@storybook/preset-vue-webpack/dist/framework-preset-vue"),__require.resolve("@storybook/preset-vue-webpack/dist/framework-preset-vue-docs")];export{addons};

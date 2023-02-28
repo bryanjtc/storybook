@@ -1,0 +1,1 @@
+import{render,renderToCanvas}from"./chunk-OHNM7E4P.mjs";var parameters={docs:{story:{inline:!0}}};var parameters2={renderer:"preact",...parameters};export{parameters2 as parameters,render,renderToCanvas};

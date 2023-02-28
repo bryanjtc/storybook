@@ -1,0 +1,1 @@
+import{__require}from"./chunk-R4NKYYJA.mjs";var addons=[__require.resolve("@storybook/preset-svelte-webpack/dist/framework-preset-svelte"),__require.resolve("@storybook/preset-svelte-webpack/dist/framework-preset-svelte-docs")];export{addons};

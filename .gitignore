@@ -4,7 +4,6 @@ node_modules
 *.iml
 *.sw*
 !.swcrc
-dist
 *.DS_Store
 .cache
 junit.xml
